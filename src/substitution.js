@@ -25,7 +25,7 @@ const substitutionModule = (function () {
     { //encode or decode here
 		  return buildEncryption.map(letter => {  
 		  	for(let plainLetter in encryptionKeys){  //iterate through each object in encryptionKeys
-		  		let substitutionLetter = encryptionKeys[plainLetter]; /
+		  		let substitutionLetter = encryptionKeys[plainLetter]; 
           if(letter == " ") return " "; //keeps spaces
 		  		if(encode && letter == plainLetter) return substitutionLetter; //encode - if our input letter = key's string of plain letter, return the value of subsitutionLetter
           if(!encode && letter == substitutionLetter) return plainLetter; //decode - if our input letter equals a substitution letter, return the plain letter
