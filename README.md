@@ -1,5 +1,6 @@
 # Decoder-Ring
-Screenshots
+An application that allows you to encode or decode a message 
+# Screenshots
 Encode:
 ![image](https://user-images.githubusercontent.com/105752599/200130781-348a9d59-7bb3-40c6-bd79-cce5611b1b68.png)
 ![image](https://user-images.githubusercontent.com/105752599/200130821-13fc681a-da93-4b65-abe1-9765cf385ba6.png)
