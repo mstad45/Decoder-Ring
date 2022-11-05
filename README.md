@@ -1,6 +1,6 @@
 # Decoder-Ring
 An application that allows you to encode or decode a message 
-# link
+# Link
  - [Live App](https://mstad45.github.io/Decoder-Ring/)
 # Screenshots
 Encode:
